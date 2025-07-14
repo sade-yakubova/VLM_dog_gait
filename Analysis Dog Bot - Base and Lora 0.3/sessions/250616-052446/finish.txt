@@ -1,5 +1,0 @@
-TRAIN LORA MODEL:
-The dog's gait is abnormal. The load on the front/rear legs is uneven, with the rear legs bearing more weight. There are signs of lameness and muscle atrophy in the hindquarters. The pitch characteristics are irregular, with a shorter length and less rhythm. The tail position is low. These symptoms may indicate a disease called degenerative myelopathy.
-
-BASE MODEL:
-The dog's gait is symmetrical, with both front and hind legs moving in a coordinated manner. There is no apparent lameness or muscle atrophy. The dog's tail is held high, and the gait has a normal length and rhythm. No musculoskeletal problems are observed.

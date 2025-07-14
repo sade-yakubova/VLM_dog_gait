@@ -1,7 +1,0 @@
-TRAIN LORA MODEL:
-The dog's gait is symmetrical with no signs of lameness. The load on the front and rear legs is evenly distributed, and there are no visible signs of muscle atrophy. The tail is held high and moves in a natural rhythm. The dog appears to be healthy.
-
-No disease found.
-
-BASE MODEL:
-The dog's gait is symmetrical, with no obvious signs of lameness or muscle atrophy. The load on the front and rear legs appears to be evenly distributed. The pitch characteristics of the gait are not clear from the video. It is not possible to diagnose any musculoskeletal problems based on the video alone.
