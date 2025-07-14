@@ -1,0 +1,5 @@
+TRAIN LORA MODEL:
+The dog's gait is stiff. The limbs are not symmetrical in movement, and the load on the front legs is heavy. The tail position is normal. There are no signs of lameness or muscle atrophy. The disease is Hip Dysplasia.
+
+BASE MODEL:
+The dog's gait is symmetrical, with no apparent lameness or muscle atrophy. The front and rear legs move in a coordinated manner, and the tail is held high. The pitch is short and rhythmic. There are no signs of musculoskeletal problems.

@@ -1,0 +1,9 @@
+TRAIN LORA MODEL:
+The disease is Chihuahua dwarfism.
+
+BASE MODEL:
+The dog's gait is characterized by a noticeable lack of symmetry in limb movements. The hind legs appear to be tucked and underutilized, with the knees permanently displaced. This results in an uneven load distribution, placing most of the weight on the front limbs while the hind legs seem to be less engaged in the gait cycle. The dog moves in a crouched, semi-seated position, suggesting significant discomfort or biomechanical dysfunction.
+
+There are clear signs of lameness or muscle atrophy in the hind legs, as they do not appear to be used effectively during the gait cycle. The pitch characteristics of the gait show a relatively short length and irregular rhythm, with the tail often held low due to the dog's posture. These findings indicate potential musculoskeletal problems affecting the dog's hind legs.
+
+It is important to consult with a veterinarian to determine the exact diagnosis and appropriate treatment for the dog's condition.

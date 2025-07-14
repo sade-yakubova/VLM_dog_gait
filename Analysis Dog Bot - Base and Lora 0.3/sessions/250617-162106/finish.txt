@@ -1,0 +1,5 @@
+TRAIN LORA MODEL:
+The dog's gait is symmetrical, with no apparent lameness or muscle atrophy. The load on the front/rear legs is evenly distributed, and there are no signs of abnormality. The pitch characteristics are normal, indicating that the dog's musculoskeletal system is functioning properly.
+
+BASE MODEL:
+The dog has a symmetrical gait, with the left hind leg not bearing weight. The dog is lame on the left hind leg and has muscle atrophy in the left hind leg. The dog has a short, slow and low-pitched gait. The tail position is low.

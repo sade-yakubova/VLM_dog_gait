@@ -1,0 +1,25 @@
+TRAIN LORA MODEL:
+The dog in the video is a small smooth-coated chihuahua. It has a thin build and appears to be walking with some difficulty, particularly in its rear legs. The gait is asymmetrical, with the front legs moving normally but the rear legs dragging on the ground.
+
+In the rear limbs, there is visible lameness and muscle atrophy, indicating significant weakness or paralysis. The dog's tail is held high and moves in rhythm with the front legs, suggesting that it is still able to control this part of its body.
+
+The pitch of the gait is short and irregular, lacking the typical length and rhythm seen in healthy dogs. This type of movement is often associated with neurological issues affecting the hindquarters.
+
+Based on these observations, the most likely condition is:
+
+1. **Spinal Cord Injury or Disease**: Conditions such as intervertebral disc disease (IVDD) or spinal cord trauma can cause paralysis and loss of sensation in the hind legs.
+2. **Neurodegenerative Diseases**: Progressive conditions like spondylosis multiplex (SDM) or degenerative myelopathy can lead to gradual muscle wasting and loss of coordination.
+3. **Degenerative Myelopathy**: A progressive condition that affects the spinal cord, causing gradual paralysis and loss of sensation in the hind legs.
+
+These conditions require immediate veterinary attention for diagnosis and treatment options, which may include surgery, physical therapy, or supportive care.
+
+**Treatment**:
+- **Surgery**: In cases of herniated discs or spinal cord compression, surgery may be necessary to relieve pressure on the spinal cord.
+- **Physical Therapy**: Gentle exercises and hydrotherapy can help maintain muscle tone and mobility.
+- **Medication**: Anti-inflammatory drugs and pain management may be prescribed to alleviate symptoms.
+- **Supportive Care**: Nutritional support and monitoring of overall health are crucial.
+
+Early intervention is essential to improve quality of life and potentially slow disease progression.
+
+BASE MODEL:
+The dog's gait is symmetrical. The load on the front/rear legs is uneven. There are no signs of lameness or muscle atrophy. The pitch characteristics are normal. The disease is spondylosis.

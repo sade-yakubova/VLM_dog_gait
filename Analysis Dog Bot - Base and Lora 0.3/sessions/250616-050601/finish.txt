@@ -1,0 +1,5 @@
+TRAIN LORA MODEL:
+The dog's gait is abnormal. The left front leg has a noticeable limp, with a shortened stride and altered rhythm. There is no sign of lameness or muscle atrophy in the hind legs. The tail position is normal. The dog may have a disease called canine elbow dysplasia.
+
+BASE MODEL:
+The dog in the video has a stiff gait with an abnormal load on the front legs. The dog's tail is low and it seems to be dragging its hind legs. It is likely that the dog has some musculoskeletal problems, possibly related to arthritis or hip dysplasia.

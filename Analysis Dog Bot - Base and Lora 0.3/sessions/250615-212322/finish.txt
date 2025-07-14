@@ -1,0 +1,16 @@
+TRAIN LORA MODEL:
+The dog in the video is a large-sized, mixed-breed dog with Labrador Retriever in its lineage. It has difficulty bearing weight on its left hind leg, indicating a musculoskeletal issue. The gait shows asymmetry, with the left hind limb not moving properly and the right hind limb compensating. The dog's movement is slow and deliberate, with a slight limp.
+
+The dog is walking on three legs, primarily using its front legs and the right hind leg. There is no visible muscle atrophy, but there may be some muscle weakness or nerve damage affecting the left hind limb.
+
+The tail position is neutral, neither raised nor lowered, suggesting that the dog is trying to maintain balance while walking.
+
+Given the symptoms, it is likely that the dog has a condition such as:
+1. Neuropathy (nerve damage) affecting the left hind limb.
+2. Myopathy (muscle disease) causing weakness in the left hind limb.
+3. A spinal cord injury or disc disease causing paralysis or weakness in the hind limbs.
+
+These conditions are more common in older dogs and can significantly impact mobility. It is important for the owner to consult with a veterinarian for a proper diagnosis and treatment plan.
+
+BASE MODEL:
+The dog's gait is not symmetrical, as it is not bearing weight on its left hind leg. The dog has a shortened stride and is unable to move its right hind leg forward, causing the left hind leg to bear all the weight. The dog's tail position is low and it has a slow pitch. The dog may have bilateral pelvic fractures, which is a condition where the bones in the pelvis are broken.

@@ -1,0 +1,11 @@
+TRAIN LORA MODEL:
+The dog in the video is a medium-sized, slender mixed breed. It has a black coat with tan markings on its legs and chest. The dog is walking on all four legs but shows signs of lameness in its rear limbs. Its gait is uneven, with the front legs appearing more stable while the rear legs are stiff and move in a shortened manner. The dog's tail is held high, and it seems to be struggling to maintain balance and coordination.
+
+These symptoms are indicative of a neurological issue affecting the hind limbs, such as spinal cord injury or disease. The lack of muscle tone and the asymmetrical movement suggest damage to the nerve pathways controlling the hindquarters.
+
+Without further information or veterinary examination, it is difficult to pinpoint the exact cause. However, conditions like disc herniation, spinal cord trauma, or degenerative myelopathy could be considered.
+
+It is crucial for the dog to receive immediate veterinary care to assess the extent of the damage and explore treatment options. Early intervention can significantly improve the prognosis and quality of life for dogs with such conditions.
+
+BASE MODEL:
+The dog's gait is symmetrical, with both front and hind limbs moving in a coordinated manner. The load on the front and rear legs appears to be evenly distributed. There are no visible signs of lameness or muscle atrophy. The pitch characteristics of the gait are relatively short and rhythmic, with the tail held high. Based on these observations, it is unlikely that the dog has any musculoskeletal problems.
